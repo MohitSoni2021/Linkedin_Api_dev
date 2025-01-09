@@ -1,0 +1,5 @@
+these are the some api routes that i have created for my project and i have created a collection of these api in postman write a professional documentation in markdown format for each of the following api rotes along with the usecase and the examples of the api use code markdown properly
+
+This is a api for my project write a professional markdown documentation for this api for postman documentation with proper use of code markdown also provide usecase and examples of each api
+
+This is a api for my project write a professional markdown documentation for this api for postman documentation with proper use of code markdown also provide usecase and examples of each api but in markdown format and without comment
