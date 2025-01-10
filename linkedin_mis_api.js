@@ -5,7 +5,7 @@ const app = express();
 
 app.use(express.json());
 
-const uri = 'mongodb://127.0.0.1:27017';
+const uri = 'mongodb+srv://mohitsoni2006ms:Mohitsoni%40cluster0@cluster0.xsx2q.mongodb.net/';
 const dbName = 'linkedindatabase';
 const collectionName = 'users';
 
