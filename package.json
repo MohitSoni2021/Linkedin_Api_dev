@@ -1,6 +1,24 @@
 {
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.21.2",
     "mongodb": "^6.12.0"
-  }
+  },
+  "name": "database",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohitSoni2021/Linkedin_Api_dev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohitSoni2021/Linkedin_Api_dev/issues"
+  },
+  "homepage": "https://github.com/MohitSoni2021/Linkedin_Api_dev#readme"
 }
